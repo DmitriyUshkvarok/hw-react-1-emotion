@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-react-1-emotion/static/css/main.7acaea2f.css",
+    "main.js": "/hw-react-1-emotion/static/js/main.07d3183d.js",
+    "index.html": "/hw-react-1-emotion/index.html",
+    "main.7acaea2f.css.map": "/hw-react-1-emotion/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/hw-react-1-emotion/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
